@@ -1,5 +1,5 @@
 /*
-Least Common Subsequence
+Longest Common Subsequence
 */
 #include<bits/stdc++.h>
 using namespace std;
